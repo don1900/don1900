@@ -20,7 +20,7 @@ Age = "14"
 
 <h3 align="left"><b>My GitHub Stats💛</b></h4>
 
-![don1900 Git Stats](https://github-readme-stats.vercel.app/api?username=don1900o&include_all_commits=true&count_private=true&theme=highcontrast)
+![don1900 Git Stats](https://github-readme-stats.vercel.app/api?username=don1900&include_all_commits=true&count_private=true&theme=highcontrast)
 
 
 
