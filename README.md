@@ -1,17 +1,17 @@
 ## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [Don](https://t.me/always_don) | [![Profile views](https://komarev.com/ghpvc/?username=don1900&label=Profile%20views)](https://github.com/don1900)
 
 
-- **💫 I’m currently working on [Skyhawk Userbot](https://github.com/don1900/Skyhawk)**
+- **💫 I’m a front end developer**
 
-- **🌱 Currently Learning Python**
+- **🌱 Currently Learning Web Development**
 
-- **⚡ Fun Fact I'm Noob...**
+- **⚡...**
 
 
-```python
+```JavaScript
 Name = "Don"
 Who I Am = ['Coding = ❣️']
-Age = "14"
+Age = "15"
 ```
 
 ## 📊 Stats
